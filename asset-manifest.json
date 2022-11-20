@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.19823d0f.css",
-    "main.js": "/static/js/main.6907d106.js",
+    "main.css": "/static/css/main.4980f3fd.css",
+    "main.js": "/static/js/main.17528e12.js",
     "static/media/bg-2.jpg": "/static/media/bg-2.eca96263145ca24f4880.jpg",
+    "static/media/lutfi-2.png": "/static/media/lutfi-2.b6b66e498be719c559b8.png",
     "static/media/react.png": "/static/media/react.35639ed930462bfcd544.png",
     "static/media/python.png": "/static/media/python.6a5cbc319ab3ddf8ef92.png",
     "static/media/express.png": "/static/media/express.45791f6b06d4c5b6ad39.png",
@@ -12,11 +13,11 @@
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "static/media/html.png": "/static/media/html.9c1e5edf3e401bf5e7b4.png",
     "index.html": "/index.html",
-    "main.19823d0f.css.map": "/static/css/main.19823d0f.css.map",
-    "main.6907d106.js.map": "/static/js/main.6907d106.js.map"
+    "main.4980f3fd.css.map": "/static/css/main.4980f3fd.css.map",
+    "main.17528e12.js.map": "/static/js/main.17528e12.js.map"
   },
   "entrypoints": [
-    "static/css/main.19823d0f.css",
-    "static/js/main.6907d106.js"
+    "static/css/main.4980f3fd.css",
+    "static/js/main.17528e12.js"
   ]
 }
